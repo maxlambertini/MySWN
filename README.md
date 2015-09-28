@@ -1,6 +1,8 @@
 # MySWN
 
-This is a sample MySQL Database based upon Stars Without Numbers roleplaying game. It was born from a need to create a testbed to train myself in MySQL query optimization-fu. 
+This is a sample MySQL Database based upon Stars Without Numbers roleplaying game (If you're into sandbox pen-and-paper roleplaying game you should definitely check the game out: http://www.sinenomine-pub.com/?page_id=395 ) 
+
+It was born from a need to create a testbed to train myself in MySQL query optimization-fu. 
 
 The zip file hereby enclosed contains two SQL files:
 
